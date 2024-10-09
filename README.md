@@ -9,9 +9,9 @@ Este es un juego de la serpiente clásico implementado en **JavaScript**, **HTML
 - La comida cambia de color con cada aparición.
 - El juego incluye un marcador que muestra el puntaje del jugador.
 
-## 🖥️ Demo en Vivo
+<!-- ## 🖥️ Demo en Vivo
 
-Puedes probar el juego en [GitHub Pages](#) (enlace a la demo si lo publicas en GitHub Pages).
+Puedes probar el juego en [GitHub Pages](#)  -->
 
 ## 📋 Instrucciones de Instalación
 
